@@ -1,0 +1,2 @@
+library(KoNLP)
+useNIADic()

@@ -1,0 +1,6 @@
+getwd()
+setwd('C:\\r_temp')
+getwd()
+install.packages("googleVis")
+library(googleVis)
+install.packages("dlpyr")
